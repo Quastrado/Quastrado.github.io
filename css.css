@@ -27,6 +27,10 @@ body {
     line-height: 0.5;
 }
 
+.links {
+    margin-top:1%;
+}
+
 a:hover {
   background: radial-gradient(ellipse at bottom, #87e0fd 0%,#01262b 55%);
 }
